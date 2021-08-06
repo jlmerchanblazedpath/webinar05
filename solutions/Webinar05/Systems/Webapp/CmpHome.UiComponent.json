@@ -6,7 +6,7 @@
       {
         "color": "default",
         "name": "label1",
-        "text": "Text for the label",
+        "text": "Text for the label with changes",
         "widget": "Label"
       }
     ],
